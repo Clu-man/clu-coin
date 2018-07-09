@@ -5,7 +5,6 @@ Clucoin is a PoS-based cryptocurrency.
 
 Ticker: CLU
 Type: Full PoS
-PoW algorithm: sha256d
 PoS block hashing: sha256d
 Max Coins: 10.000.000.000 (10 bilion)
 PoS reward: fixed 10000 CLU + 7% (yearly)
