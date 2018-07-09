@@ -4,29 +4,25 @@ Clucoin development tree
 Clucoin is a PoS-based cryptocurrency.
 
 Ticker: CLU
-Type: PoW/PoS hybrid
+Type: Full PoS
 PoW algorithm: sha256d
 PoS block hashing: sha256d
-Max Coins: 10.000.000.000 (10+ bilion)
-PoW reward: 1000000 CLU (no halving)
-Last PoW block: 250
+Max Coins: 10.000.000.000 (10 bilion)
 PoS reward: fixed 10000 CLU + 7% (yearly)
 PoS reward halving: 525600 (approx 5 years, halving only for fixed reward, 7% stays the same)
 Minimum PoS age: 7 hours
 Maximum PoS age: unlimited
 Block time target: 5 minutes
 Difficulty retarget: every block
-Coinbase maturity: 100 blocks
+Coinbase maturity: 16 blocks
 Transaction recommended minimum confirmations: 5
-Minimal TX fee: 100 Lanoshis (0.00000100 CLU)
+Minimal TX fee: 100 clushis (0.00000100 CLU)
 
 P2P port: 5785
 RPC port: 7586
 
 Testnet P2P port: 17586
 Testnet RPC port: 15785
-
-Estimated coins in existence after end of pow 400.900.000 (very very rough estimate, depends on how many people will be staking...etc)
 
 Development process
 ===========================
