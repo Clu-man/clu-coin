@@ -57,6 +57,6 @@ Issues with no commits will be given a similar warning, and closed after
 labeled 'stale'.
 
 Get in touch or stay updated:
-http://сlu-coin.com/
+http://www.clu-coin.com
 
 
