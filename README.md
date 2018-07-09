@@ -1,4 +1,3 @@
-
 Clucoin development tree
 
 Clucoin is a PoS-based cryptocurrency.
